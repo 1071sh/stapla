@@ -1,0 +1,11 @@
+{
+    "extends": [
+        "stylelint-config-recommended",
+        "stylelint-config-recess-order",
+        "stylelint-prettier/recommended"
+    ],
+    "rules": {
+        "indentation": 4,
+        "string-quotes": "single"
+    }
+}
